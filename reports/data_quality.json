@@ -1,0 +1,26 @@
+{
+  "source_rows": 524950,
+  "clean_rows": 524741,
+  "rejected_rows": 209,
+  "rejection_reasons": {
+    "invalid_price": 24,
+    "invalid_base_price": 185
+  },
+  "zero_sales_retained": 0,
+  "products": 55,
+  "stores": 77,
+  "weeks": 156,
+  "first_week": "2009-01-14",
+  "last_week": "2012-01-04",
+  "missing_pair_weeks": 84283,
+  "missing_week_definition": "Absent weeks within observed product/store pairs across full calendar; not zero-filled.",
+  "price_above_base_rows": 6047,
+  "revenue_rounding_difference_rows": 0,
+  "duplicate_store_lookup_rows": 2,
+  "conflicting_store_segments": [
+    "17627",
+    "4503"
+  ],
+  "dataset_id": "61b1d77dd6d9298f",
+  "source_url": "https://downloads.ctfassets.net/psj0p18eh7z1/7B4xI3FKcgMLak9Wm95IHC/3b63fe3d37bc7122d13524514be4ab51/dunnhumby_Breakfast-at-the-Frat.zip"
+}

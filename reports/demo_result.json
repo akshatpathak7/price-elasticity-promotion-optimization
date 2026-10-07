@@ -1,0 +1,678 @@
+{
+  "recommendation": {
+    "model_version": "20261007T030225997489Z",
+    "dataset_id": "61b1d77dd6d9298f",
+    "status": "recommended",
+    "baseline": {
+      "price": 2.95,
+      "units": 9.779795426300339,
+      "revenue": 28.850396507586,
+      "units_interval": [
+        8.978467844574194,
+        10.652641434594456
+      ],
+      "revenue_interval": [
+        26.486480141493875,
+        31.425292232053646
+      ],
+      "contribution_profit": null,
+      "margin_pct": null
+    },
+    "recommendation": {
+      "price": 3.25,
+      "units": 11.051046893006482,
+      "revenue": 35.915902402271065,
+      "units_interval": [
+        9.102171640817877,
+        13.417197812856733
+      ],
+      "revenue_interval": [
+        29.5820578326581,
+        43.60589289178438
+      ],
+      "contribution_profit": null,
+      "margin_pct": null,
+      "support": {
+        "feature": 0,
+        "display": 1,
+        "tpr_only": 0
+      },
+      "unchanged_baseline": false,
+      "promotion_cost": 0
+    },
+    "simulated_revenue_change_pct": 24.49015178293039,
+    "candidates": [
+      {
+        "price": 3.25,
+        "units": 11.051046893006482,
+        "revenue": 35.915902402271065,
+        "units_interval": [
+          9.102171640817877,
+          13.417197812856733
+        ],
+        "revenue_interval": [
+          29.5820578326581,
+          43.60589289178438
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 1,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.22,
+        "units": 11.11259852962067,
+        "revenue": 35.78256726537856,
+        "units_interval": [
+          9.159057910292642,
+          13.482810927721474
+        ],
+        "revenue_interval": [
+          29.49216647114231,
+          43.414651187263146
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 1,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.19,
+        "units": 11.175073983196397,
+        "revenue": 35.6484860063965,
+        "units_interval": [
+          9.21673788249008,
+          13.54950961198146
+        ],
+        "revenue_interval": [
+          29.401393845143353,
+          43.222935662220856
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 1,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.16,
+        "units": 11.238496004397714,
+        "revenue": 35.513647373896774,
+        "units_interval": [
+          9.275228373663293,
+          13.617324269825946
+        ],
+        "revenue_interval": [
+          29.309721660776006,
+          43.03074469264999
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 1,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.13,
+        "units": 11.302888127168655,
+        "revenue": 35.37803983803789,
+        "units_interval": [
+          9.334546678568568,
+          13.686286481228585
+        ],
+        "revenue_interval": [
+          29.217131103919616,
+          42.83807668624547
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 1,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.1,
+        "units": 11.368274703526854,
+        "revenue": 35.24165158093325,
+        "units_interval": [
+          9.394710588219738,
+          13.756429058804958
+        ],
+        "revenue_interval": [
+          29.12360282348119,
+          42.644930082295375
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 1,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.07,
+        "units": 11.434680940257072,
+        "revenue": 35.10447048658921,
+        "units_interval": [
+          9.455738408519348,
+          13.82778610792306
+        ],
+        "revenue_interval": [
+          29.029116914154397,
+          42.451303351323794
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 1,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.04,
+        "units": 11.50213293762822,
+        "revenue": 34.96648413038979,
+        "units_interval": [
+          9.517648979824862,
+          13.900393090280415
+        ],
+        "revenue_interval": [
+          28.93365289866758,
+          42.25719499445246
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 1,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.01,
+        "units": 11.570657730266666,
+        "revenue": 34.82767976810266,
+        "units_interval": [
+          9.580461697512833,
+          13.974286891177293
+        ],
+        "revenue_interval": [
+          28.837189709513623,
+          42.06260354244365
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 1,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 2.98,
+        "units": 11.640283330328732,
+        "revenue": 34.68804432437962,
+        "units_interval": [
+          9.644196533609438,
+          14.049505890732622
+        ],
+        "revenue_interval": [
+          28.739705670156127,
+          41.867527554383216
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 1,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 2.95,
+        "units": 11.711038773126447,
+        "revenue": 34.54756438072302,
+        "units_interval": [
+          9.70887405956175,
+          14.126090039307993
+        ],
+        "revenue_interval": [
+          28.641178475707168,
+          41.671965615958584
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 1,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.25,
+        "units": 9.228641451351159,
+        "revenue": 29.993084716891268,
+        "units_interval": [
+          8.389523594756016,
+          10.151687646582472
+        ],
+        "revenue_interval": [
+          27.265951682957052,
+          32.99298485139303
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 0,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.22,
+        "units": 9.280042734012955,
+        "revenue": 29.881737603521717,
+        "units_interval": [
+          8.444885934984265,
+          10.197792345346473
+        ],
+        "revenue_interval": [
+          27.192532710649335,
+          32.83689135201565
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 0,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.19,
+        "units": 9.332215488878905,
+        "revenue": 29.769767409523705,
+        "units_interval": [
+          8.5010022644575,
+          10.244703297515128
+        ],
+        "revenue_interval": [
+          27.118197223619422,
+          32.68060351907326
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 0,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.16,
+        "units": 9.385178714847777,
+        "revenue": 29.657164738918976,
+        "units_interval": [
+          8.557884280787805,
+          10.292448065390678
+        ],
+        "revenue_interval": [
+          27.042914327289466,
+          32.52413588663455
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 0,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.13,
+        "units": 9.438952064929254,
+        "revenue": 29.543919963228564,
+        "units_interval": [
+          8.615543653342836,
+          10.341055616317808
+        ],
+        "revenue_interval": [
+          26.96665163496308,
+          32.36750407907474
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 0,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.1,
+        "units": 9.493555875299752,
+        "revenue": 29.43002321342923,
+        "units_interval": [
+          8.67399199898123,
+          10.3905564090933
+        ],
+        "revenue_interval": [
+          26.88937519684181,
+          32.21072486818923
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 0,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.07,
+        "units": 9.549011195944942,
+        "revenue": 29.31546437155097,
+        "units_interval": [
+          8.733240856122315,
+          10.440982485483483
+        ],
+        "revenue_interval": [
+          26.811049428295505,
+          32.05381623043429
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 0,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.04,
+        "units": 9.605339822992008,
+        "revenue": 29.200233061895705,
+        "units_interval": [
+          8.793301657243804,
+          10.492367566982248
+        ],
+        "revenue_interval": [
+          26.731637038021162,
+          31.89679740362603
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 0,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 3.01,
+        "units": 9.662564332842619,
+        "revenue": 29.08431864185628,
+        "units_interval": [
+          8.85418569995692,
+          10.544747156904172
+        ],
+        "revenue_interval": [
+          26.651098956870328,
+          31.739688942281557
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 0,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 2.98,
+        "units": 9.72070811822594,
+        "revenue": 28.967710192313298,
+        "units_interval": [
+          8.915904116875273,
+          10.598158647859035
+        ],
+        "revenue_interval": [
+          26.569394268288313,
+          31.582512770619925
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 0,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": false,
+        "promotion_cost": 0
+      },
+      {
+        "price": 2.95,
+        "units": 9.779795426300339,
+        "revenue": 28.850396507586,
+        "units_interval": [
+          8.978467844574194,
+          10.652641434594456
+        ],
+        "revenue_interval": [
+          26.486480141493875,
+          31.425292232053646
+        ],
+        "contribution_profit": null,
+        "margin_pct": null,
+        "support": {
+          "feature": 0,
+          "display": 0,
+          "tpr_only": 0
+        },
+        "unchanged_baseline": true,
+        "promotion_cost": 0
+      }
+    ],
+    "candidate_count": 22,
+    "warnings": [],
+    "assumptions": {
+      "product_id": "1111035398",
+      "store_id": "24991",
+      "max_discount_pct": 20,
+      "unit_cost": null,
+      "promotion_cost": 0,
+      "baseline_promotion_cost": 0,
+      "min_margin_pct": null
+    },
+    "week": "2012-01-11",
+    "note": "Best within the tested price grid. Constant elasticity often selects a boundary; this is not a universal optimum.",
+    "disclaimer": "Observational model estimates, not causal effects or realized gains. Intervals describe conditional mean uncertainty, not a range of future sales."
+  },
+  "scenario": {
+    "model_version": "20261007T030225997489Z",
+    "dataset_id": "61b1d77dd6d9298f",
+    "product_id": "1111035398",
+    "store_id": "24991",
+    "week": "2012-01-11",
+    "baseline": {
+      "price": 2.95,
+      "units": 9.779795426300343,
+      "revenue": 28.850396507586012,
+      "units_interval": [
+        8.978467844574197,
+        10.65264143459446
+      ],
+      "revenue_interval": [
+        26.486480141493885,
+        31.425292232053657
+      ],
+      "contribution_profit": null,
+      "margin_pct": null
+    },
+    "proposed": {
+      "price": 3.25,
+      "units": 11.051046893006486,
+      "revenue": 35.91590240227108,
+      "units_interval": [
+        9.102171640817883,
+        13.417197812856738
+      ],
+      "revenue_interval": [
+        29.58205783265812,
+        43.6058928917844
+      ],
+      "contribution_profit": null,
+      "margin_pct": null
+    },
+    "changes": {
+      "units_pct": 12.998753156813759,
+      "revenue_pct": 24.490151782930415,
+      "revenue": 7.065505894685067
+    },
+    "support_lift_at_same_price_pct": 19.747277551762576,
+    "assumptions": {
+      "product_id": "1111035398",
+      "store_id": "24991",
+      "price": 3.25,
+      "reference_price": 2.95,
+      "discount_pct": null,
+      "support": {
+        "feature": 0,
+        "display": 1,
+        "tpr_only": 0
+      },
+      "unit_cost": null,
+      "promotion_cost": 0,
+      "baseline_promotion_cost": 0,
+      "resolved_price": 3.25,
+      "resolved_discount_pct": -10.169491525423723,
+      "resolved_support": {
+        "feature": 0,
+        "display": 1,
+        "tpr_only": 0
+      },
+      "baseline_support": {
+        "feature": 0,
+        "display": 0,
+        "tpr_only": 0
+      },
+      "last_observed_week": "2012-01-04",
+      "costs_are_user_assumptions": true
+    },
+    "eligible": true,
+    "warnings": [],
+    "curve": [
+      {
+        "price": 2.95,
+        "units": 11.711038773126454,
+        "revenue": 34.54756438072304
+      },
+      {
+        "price": 2.98,
+        "units": 11.640283330328732,
+        "revenue": 34.68804432437962
+      },
+      {
+        "price": 3.01,
+        "units": 11.57065773026667,
+        "revenue": 34.827679768102676
+      },
+      {
+        "price": 3.04,
+        "units": 11.502132937628224,
+        "revenue": 34.9664841303898
+      },
+      {
+        "price": 3.07,
+        "units": 11.434680940257072,
+        "revenue": 35.10447048658921
+      },
+      {
+        "price": 3.1,
+        "units": 11.368274703526854,
+        "revenue": 35.24165158093325
+      },
+      {
+        "price": 3.13,
+        "units": 11.30288812716866,
+        "revenue": 35.37803983803791
+      },
+      {
+        "price": 3.16,
+        "units": 11.238496004397714,
+        "revenue": 35.513647373896774
+      },
+      {
+        "price": 3.19,
+        "units": 11.175073983196397,
+        "revenue": 35.6484860063965
+      },
+      {
+        "price": 3.22,
+        "units": 11.112598529620673,
+        "revenue": 35.78256726537857
+      },
+      {
+        "price": 3.25,
+        "units": 11.051046893006486,
+        "revenue": 35.91590240227108
+      }
+    ],
+    "disclaimer": "Observational model estimates, not causal effects or realized gains. Intervals describe conditional mean uncertainty, not a range of future sales.",
+    "scenario_id": "9b2dbd6e-b843-4c47-aed3-758489f3cd04"
+  }
+}
